@@ -163,3 +163,6 @@ const styles = {
     },
   }),
 };
+const myWallet = new WalletLocked("fuel123....");
+console.log(".  const myWallet = new WalletLocked("fuel123....");
+console.log("fuel17dhpre8nfyg69fdus2kapn98d2v0akry5eqvs9c2x53ya0khcc5sshdjcd", myWallet.address.toB256());
